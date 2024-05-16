@@ -104,9 +104,9 @@ export default function App() {
 						}}
 						centered>
 						<TextInput
-							mt={'md'}
+							mt={'md'} 
 							ref={taskTitle}
-							placeholder={'Task Title'}
+							placeholder={'Add Task Title'}
 							required
 							label={'Title'}
 						/>
